@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "interfacesgraficasdemo"
+  },
+  "targets": {
+    "interfacesgraficasdemo": {
+      "hosting": {
+        "tarea": [
+          "interfacesgraficasdemo"
+        ],
+        "prueba": [
+          "prueba-inter-graficas"
+        ]
+      }
+    }
+  }
+}
