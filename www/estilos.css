@@ -52,9 +52,7 @@ h2 {
     text-align: center;
 }
 
-p {
-    margin: 30px;
-}
+
 
 .tecla {
     width: 70px;
@@ -90,5 +88,26 @@ p {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+
+.content-facebook {
+    padding-top: 200px;
+    background: #f0f2f5;
+    padding-bottom: 200px;
+}
+
+.content-facebook h1 {
+    color: #1877f2;
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.olvidaste {
+    color: #1877f2;
+}
+
+.crear-cuenta {
+    background: #42b72a !important;
 }
 
