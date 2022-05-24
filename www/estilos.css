@@ -111,3 +111,46 @@ h2 {
     background: #42b72a !important;
 }
 
+
+.cuadrado-contenedor {
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    background: aliceblue;
+    position: relative;
+}
+
+.whatsapp {
+    width: 80px;
+    height: 80px;
+    background: #43c533;
+    border-radius: 100%;
+    border: 4px solid white;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.cuadrado-3 {
+    width: 100px;
+    height: 100px;
+    background: aquamarine;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.central {
+    width: 100px;
+    height: 100px;
+    background: aquamarine;
+    border-radius: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
